@@ -43,12 +43,12 @@ pip install opencv-python face_recognition numpy
 
 ### Usage 📌
 
-Place images of individuals in the 'images' directory. Make sure each image contains only one face and is labeled with the person's name.
+Place images of individuals in the 'images' directory. Make sure each image contains only one face and is labelled with the person's name.
 
 Run the 'attendance_system.py' script:
 
 ```
-python attendance_system.py
+Atterndance_Automation_Python.py
 ```
 
 The system will launch the webcam to capture the faces and compare them with the images in the 'images' directory.
